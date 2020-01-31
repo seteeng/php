@@ -4,5 +4,4 @@
 
     echo "Olá Udemy!";
 
-
 ?>
